@@ -1,0 +1,5 @@
+num1 = (int(input ( "First Number: ")))
+print(type(num1))
+num2 = (int(input ( "Second Number: ")))
+print(type(num2))
+print(num1 + num2)# num1 = input ( "First Number: ")
