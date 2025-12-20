@@ -1,6 +1,6 @@
 access = input(' Type [A]ccess [E]xit: ')
 
-if access == 'E':
+if access == 'E' or access =="e":
     print('Exiting the system')
 elif access != 'A':
     print('Invalid option')
